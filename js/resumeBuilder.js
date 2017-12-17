@@ -165,7 +165,7 @@ var work = {
       "title": "LEGAL ADMINISTRATOR",
       "location": "Seoul, South Korea",
       "dates": "October 2004 - August 2009",
-      "summery": "Worked for Telecommunications, Media and Technology group.",
+      "summery": "Worked in Telecommunications, Media and Technology group.",
       "description": [
 	      "Communicated with clients and other staffs to attorneys can work according to plan. ",
 	      "Assisted lawyers with preparation of pleadings, affidavits, briefs and court applications. Collected, organized and sorted litigation files and other legal documentation. Maintain and update files.",
