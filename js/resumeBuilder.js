@@ -165,12 +165,12 @@ var work = {
       "title": "LEGAL ADMINISTRATOR",
       "location": "Seoul, South Korea",
       "dates": "October 2004 - August 2009",
-      "summery": "Worked in Telecommunications, Media and Technology group.",
+      "summery": "Worked in Telecommunications, Media and Technology group. Enhanced attorneys' effectiveness by providing administrative support.",
       "description": [
-	      "Communicated with clients and other staffs to attorneys can work according to plan. ",
-	      "Assisted lawyers with preparation of pleadings, affidavits, briefs and court applications. Collected, organized and sorted litigation files and other legal documentation. Maintain and update files.",
+	      "Communicated with clients and other staffs so that attorneys can work according to plan.",
+	      "Assisted lawyers with preparation of pleadings, affidavits, briefs and court applications. Collected, organized and sorted litigation files and other legal documentation. Maintained and updated files.",
 	      //"Organized conference calls, meetings, appointments, and other calendar items.",
-	      "Managed billing records for litigation partner. Set up invoices and statements, tracked and inputted attorney time data. Sent bills to clients and communicate with billing team and clients.",
+	      "Managed billing records for litigation partner. Set up invoices and statements, tracked and inputted attorneys' time data. Sent bills to clients and communicated with billing team and clients.",
 	      //"Reviewed and prepare attorney’s travel and expense reimbursement documents. And categorized and file expenditure of company credit card every month.",
 	      "Prepared PowerPoint presentations for legal seminars."
       ]
