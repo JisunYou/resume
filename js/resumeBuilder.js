@@ -8,8 +8,7 @@ var picture = {
 };
 
 var contacts = {
-  "mobile" : "(512) 203-1172",
-  "email" : "jisun.you@gmail.com",
+  "email" : "jisun.you [at] gmail.com",
   "site" : "jisunyou.github.io",
   "location" : "Houston, Texas"
 };
