@@ -21,8 +21,8 @@ $("#bio").append(resumeName);
 var resumeRole = HTMLheaderRole.replace("%data%", bio.role);
 $("#bio").append(resumeRole);
 
-var resumeMobile = HTMLmobile.replace("%data%", contacts.mobile);
-$("#contact").append(resumeMobile);
+// var resumeMobile = HTMLmobile.replace("%data%", contacts.mobile);
+// $("#contact").append(resumeMobile);
 var resumeEmail = HTMLemail.replace("%data%", contacts.email);
 $("#contact").append(resumeEmail);
 var resumeSite = HTMLsite.replace(/%data%/g, contacts.site);
